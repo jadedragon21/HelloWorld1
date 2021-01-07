@@ -3,7 +3,7 @@ import java.util.Scanner;
 // Your First Program
 
 public class HelloWorld {
-    public static void main(String[] args) {
+    public static void main(String[void] args) {
         //        .print vs. println
         //        System.out.print("Hello, World!\n");
         //        System.out.print("Today is awesome!");
