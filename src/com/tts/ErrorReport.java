@@ -19,11 +19,14 @@ public class ErrorReport {
         }
         System.out.println("Come on you know you wanna laugh!" + iNeedNoBurritos);
         //this one works and is funny dunno about legal though lol
+
+        String doIworkInHere;
         {
-            String doIworkInHere;
-            System.out.println("Is this working?" + doIworkInHere);
-            //not intialized properly since the string should've been out of the {} and above the first {
+            doIworkInHere = "This might actaully work...maybe?";
+
         }
+        System.out.println("Is this working?" + doIworkInHere);
+        //this is the revised code after breaking and fixing it. Works now!
 }
 }
 //google reserved words in java,
