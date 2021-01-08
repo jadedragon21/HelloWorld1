@@ -26,3 +26,7 @@ public class ErrorReport {
         }
 }
 }
+//google reserved words in java,
+// https://en.wikipedia.org/wiki/Uninitialized_variable
+// https://www.tutorialspoint.com/java/java_basic_datatypes.htm,https://www.informit.com/articles/article.aspx?p=2270972
+// https://howtodoinjava.com/java/basics/java-naming-conventions/
