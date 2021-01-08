@@ -22,7 +22,7 @@ public class MadLib {
 
         System.out.printf("Here is your story: \n");
         System.out.printf("\n Dear %s,", name);
-        System.out.printf("\n You are %s  and I want to be your %s!", adverb, adjective, noun); //took out one %s
+        System.out.printf("\n You are %s %s and I want to be your %s!", adverb, adjective, noun);
         System.out.printf("\n I want to go to the %s with you in %s days.", nounTwo, number);
         System.out.printf("\n Sincerely, %s \n", yourName);
 
@@ -72,3 +72,5 @@ public class MadLib {
 
     }
 }
+//I'm outside of the  {} so whatever I type here doesn't work. Make sure to have working code b4 the last }. Also make sure you match so if you have {([ you must have
+ //the ])}
